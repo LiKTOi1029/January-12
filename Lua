@@ -1,0 +1,5 @@
+userInput = io.read()
+wordList = {}
+for num0 = 1, string.len(userInput), 1 do
+	 
+end
