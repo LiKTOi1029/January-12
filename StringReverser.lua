@@ -1,6 +1,4 @@
-wordList = {}
-setString = ""
-userInput = io.read()
+wordList, setString, userInput = {}, "", io.read()
 function reverse(Table)
     for num1 = 1, math.floor(#Table / 2) do
         Table[num1], Table[#Table - num1 + 1] = Table[#Table - num1 + 1], Table[num1]
