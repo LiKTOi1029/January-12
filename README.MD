@@ -1,4 +1,4 @@
-#CollatzConjecture
+# CollatzConjecture
 
 This is script that takes an input:
 	If the input is EVEN then DIVIDE BY 2
